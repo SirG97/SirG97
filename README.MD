@@ -13,5 +13,4 @@ I'm a Software Engineer. I'm passionate about sharing knowledge, finding and fix
 
 ---
 
- | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirg97&langs_count=8&layout=compact&hide_border=true" alt="Chinedu's GitHub stats" /> |
-| ------------- | ------------- |
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirg97&langs_count=8&layout=compact&hide_border=true" alt="Chinedu's GitHub stats" /> 
