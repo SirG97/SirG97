@@ -8,8 +8,8 @@ I'm a Software Engineer. I'm passionate about sharing knowledge, finding and fix
 
 - 😊 Pronouns: He/him
 - 🌱 I’m currently learning Golang .
-- 💼 Job interests: Software Engineer, Backend Engineer, or Fullstack Engineer (Intermediate or Senioe level).
-- 📫 You can [view my resume](#) and contact me by emailing omesuchinedu@gmail.com.
+- 💼 Job interests: Software Engineer, Backend Engineer, or Fullstack Engineer (Intermediate or Senior level).
+- 📫 You contact me by emailing omesuchinedu@gmail.com.
 
 ---
 
